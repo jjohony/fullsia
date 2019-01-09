@@ -1,0 +1,22 @@
+usuario administrador:
+usuario:	correo
+clave:	12345678
+
+crear usuario administrador 
+desde base de datos, requiere un administrativo
+
+usuario docente:
+usuario:	102B
+clave:	9212386
+
+usuario academico:
+usuario: 	103M
+clave:	7451236
+
+usuario estudiante:
+usuario:	1001
+clave:	7013889
+
+usuario operador:
+usuario:	101R
+clave:	9918413

@@ -1,0 +1,23 @@
+configuracion 
+	- ventana de notificacion al modificar
+	- no muestra cual es el error del texto a modificar
+
+slider 
+	-cambiar el campo orden de texto a numero
+
+producto_imagen
+	-notificacion de error
+
+facturas
+	-falta eliminacion, edicion
+
+pedidos virtuales
+  cliente virtual
+	-no modifica
+
+compra 
+	- editar*cambair cantidad texto a numero
+		*sin almacenar 
+
+contactos
+	-no edita
